@@ -1,0 +1,6 @@
+{
+  "name": "AMLab: Conventional Amplitude Modulation Simulator",
+  "description": "Interactive electrical and communication engineering laboratory for Conventional Amplitude Modulation (AM), envelope analysis, frequency spectrum, power efficiency, demodulation, superheterodyne receiver, and numerical verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
